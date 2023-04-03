@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./screenshots/Meditation-bro.svg" alt="logo" height="150"/>
 </p>
 
@@ -67,4 +67,4 @@ This program is free software: you can redistribute it and/or modify it under th
 
 [Become a Patron!](https://www.patreon.com/bePatron?u=28198536)
 
-[Support via Paypal](https://paypal.me/YajanaRao?locale.x=en_GB)
+[Support via Paypal](https://paypal.me/YajanaRao?locale.x=en_GB) -->
